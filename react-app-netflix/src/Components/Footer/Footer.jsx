@@ -42,8 +42,8 @@ function foo() {
                     </ul>
                 </div>     
             </div>
-            <div className='service_code'></div>
-            <div className='copy_writer'></div>
+            <div className='service_code'>Service Code</div>
+            <div className='copy_writer'> ©1997-2024 Netflix Isc</div>
       </div>
     </div>
   )

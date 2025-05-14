@@ -1,6 +1,6 @@
 .footer_outer_container{
-    background-color: #1111;
-    color: rgb(20, 0, 0);
+    background-color: black;
+    color: white;
     display: flex;
     justify-content: center;
 }
@@ -32,15 +32,16 @@
     /* display: flex; */
 }
 .service_code{
-    display: flex;
+    /* display: flex; */
     align-items: center;
     justify-content: center;
     border: #fff 1px solid;
-    width: 10%;
+    width: 12%;
     margin: 10px 0;
     cursor: pointer;
 }
 .copy_writer{
     font-size: 12px;
     margin-bottom: 10px;
+    
 }
