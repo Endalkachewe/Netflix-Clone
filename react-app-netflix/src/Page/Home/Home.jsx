@@ -1,9 +1,12 @@
 import React from 'react'
-
+import Header from '../../Components/Header/Header'
+import Footer from '../../Components/Footer/Footer'
 function Home() {
   return (
     <div className='app'>
-      <h1>Hello</h1>
+          <Header />
+          <Footer/>
+          {/* <Foo/> */}
     </div>
   )
 }
