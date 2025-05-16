@@ -10,7 +10,6 @@ function Home() {
       <Banner />
       <RowList/>
       <Footer/>
-          {/* <Foo/> */}
     </div>
   )
 }
